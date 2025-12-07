@@ -1,17 +1,7 @@
 [
   {
     "name": "Adarsh Kumar",
-    "college": "SEC Sasaram",
-    "amount": "₹100"
-  },
-  {
-    "name": "Vicky Sir",
     "college": "IIT Kharari",
-    "amount": "₹50"
-  },
-  {
-    "name": "Biru Kumar",
-    "college": "NIT Sasaram",
-    "amount": "₹20"
+    "amount": "₹000"
   }
 ]
