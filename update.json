@@ -1,5 +1,5 @@
 {
     "title": "UPDATE AVAILABLE",
-    "message": "This is a mandatory update and cannot be skipped. Please update the app for best experience.",
-    "is_mandatory": true
+    "message": "Major UI/UX fixed. Please update the app for best experience.",
+    "is_mandatory": false
 }
